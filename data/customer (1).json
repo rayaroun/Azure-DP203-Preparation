@@ -1,0 +1,23 @@
+[
+{
+"customerid":1,
+"customername":"UserA",
+"registered":true,
+"courses":["AZ-900","AZ-500","AZ-303"],
+"details" :
+	{
+	"mobile":"111-1112",
+	"city":"CityA"
+	}
+},
+{
+"customerid":2,
+"customername":"UserB",
+"registered":true,
+"courses":["AZ-104","AZ-500","DP-200"],
+"details" :
+	{
+	"mobile":"333-1112",
+	"city":"CityB"
+	}
+}]
