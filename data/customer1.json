@@ -1,0 +1,12 @@
+[
+{
+"customerid":1,
+"customername":"UserA",
+"registered":true
+},
+{
+"customerid":2,
+"customername":"UserB",
+"registered":true
+}
+]
