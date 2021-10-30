@@ -1,0 +1,13 @@
+metricName,tier
+sessions_percent,1
+log_write_percent,2
+Storage,1
+physical_data_read_percent,2
+xtp_storage_percent,1
+workers_percent,2
+cpu_percent,2
+allocated_data_storage,1
+dtu_limit,1
+storage_percent,1
+dtu_consumption_percent,2
+dtu_used,3
