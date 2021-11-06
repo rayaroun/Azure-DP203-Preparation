@@ -1,0 +1,4 @@
+[
+{"customerid":1,"customername":"UserA","registered":true,"courses":["AZ-900","AZ-500","AZ-303"]},
+{"customerid":2,"customername":"UserB","registered":true,"courses":["AZ-104","AZ-500","DP-200"]}
+]
